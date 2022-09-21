@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:EEFF00,100:a82da8&height=200&section=header&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FFB4B4&height=200&section=header&fontSize=90)
 
 <div align="center">
 <br/>
