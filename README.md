@@ -16,5 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <h1> Hello I'm sohyeon💜 <h1>
+<br/>
+  <h3> Hello I'm sohyeon💜 <h3> <br/>
+  HAVE A NICE DAY!
+  <br/><br/>
 </div>
