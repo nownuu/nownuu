@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 <br/>
-  <h3> Hello, I'm sohyeon💜 </h3> <hr/><br/>
-  HAVE A NICE DAY!
+  <h3> 💜 Hello, I'm sohyeon 💜 </h3> <hr/><br/>
+  Welcome my development homepage !
   <br/><br/>
 
   <!--방문자 수 집계-->
