@@ -27,6 +27,7 @@ Here are some ideas to get you started:
   <br><br>
   <hr>
   <!-- 테크 -->
+  <!-- 사용 홈페이지 : https://simpleicons.org/ -->
   <h5>🖊 TECH</h5>
 <div>
   <br/>
