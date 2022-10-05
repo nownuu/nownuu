@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 <div align="center">
 <br/>
   <h3> 💜 Hello, I'm sohyeon 💜 </h3> <hr/><br/>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nownuu&show_icons=true&theme=highcontrast)
+  
   Welcome my development homepage !
   <br/><br/>
   
