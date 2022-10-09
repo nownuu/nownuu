@@ -18,16 +18,22 @@ Here are some ideas to get you started:
 
 <div align="center">
 <br/>
-  <h3> 💜 Hello, I'm sohyeon 💜 </h3> <hr/><br/>
+  <h3> 💜 Hello, I'm sohyeon 💜 </h3> 
   
+   <!--방문자 수 집계-->
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnownuu&count_bg=%23DFB7FA&title_bg=%23FAA8A8&icon=&icon_color=%23F6A7A7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+  
+  <hr/><br/>
+
+
   | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nownuu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hyeonnni's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nownuu&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=nownuu98)](https://solved.ac/nownuu98/)
+
   Welcome my development homepage !
   <br/><br/>
-  
-  <!--방문자 수 집계-->
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnownuu&count_bg=%23DFB7FA&title_bg=%23FAA8A8&icon=&icon_color=%23F6A7A7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   <br><br>
   <hr>
   
@@ -56,10 +62,10 @@ Here are some ideas to get you started:
   <br/>
 </div>
   <br><br>
-  <h5>📃</h5>
+  <h5>📃 study 📃</h5>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
   <br><br>
-  <h5>💌</h5>
+  <h5>💌 Contact me 💌 </h5>
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
   <img src="https://img.shields.io/badge/WeChat-07C160?style=flat-square&logo=WeChat&logoColor=white"/>  
