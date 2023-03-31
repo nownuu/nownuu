@@ -66,7 +66,5 @@ Here are some ideas to get you started:
   <h5>💌 Contact me 💌 </h5>
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WeChat-07C160?style=flat-square&logo=WeChat&logoColor=white"/>  
-
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=FFB4B4&height=130&section=footer&fontSize=90)
